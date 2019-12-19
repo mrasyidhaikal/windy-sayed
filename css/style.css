@@ -756,9 +756,19 @@ span.simply-word {
     color: #eee;
 	    font-family: 'Open Sans', sans-serif;
 }
+.simply-word{
+     font-size:15px;
+    letter-spacing: 3px;
+    font-weight: 500;
+    margin-left: 5px;
+    text-transform: uppercase;
+    color: #eee;
+      font-family: 'Open Sans', sans-serif;
+}
 /*-- //Countdown-Timer --*/
 .property-grids {
-    background: #000;
+background: url(../images/g5v2.jpg)no-repeat 0px 0px;
+
 }
 .grid {
 	position: relative;
@@ -766,6 +776,7 @@ span.simply-word {
 	list-style: none;
 	text-align: center;
 }
+
 
 /* Common style */
 .grid figure {
@@ -874,7 +885,7 @@ figure.effect-moses:hover img {
 	letter-spacing:1px;
 }
 .home-agile-text p{
-    font-size: 0.95em;
+    font-size: 2em;
     color: #fff;
     letter-spacing: 2px;
     margin: 2em 0 2em 0;
@@ -1560,6 +1571,7 @@ h3.icon-subheading {
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
+mapouter{position:relative;text-align:right;height:151px;width:272px;}.gmap_canvas {overflow:hidden;background:none!important;height:151px;width:272px;}
  .single-bottom textarea {
 	resize: none;
     min-height: 180px;
@@ -2645,6 +2657,12 @@ ul.aglieits-nav li a:hover{
 	.home-agile-text h4 {
        font-size: 2.5em;
 	}
+  .home-agile-text h3 {
+       font-size: 3em;
+       font-weight: 100px; 
+      color: #fff;
+
+  }
 	.wthree_title_agile p:before, .wthree_title_agile p:after {
 		content: '';
 		background: #212121;
@@ -2714,7 +2732,7 @@ ul.aglieits-nav li a:hover{
 		float: right;
 		padding: 14px 5px;
 		font-size: 12px;
-		letter-spacing: 5px;
+		
 	}
 	.blog-left_w3_agileinfo b {
       font-size: 33px;
