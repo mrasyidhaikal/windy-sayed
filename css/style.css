@@ -1951,7 +1951,7 @@ ul.aglieits-nav li a:hover{
     padding: 50px 20px 20px 20px;
     font-size: 12px;
     line-height: 2em;
-    letter-spacing: 8px;
+    letter-spacing: 1px;
   }
   .home-agile-text {
     padding: 3em 1em;
@@ -2022,7 +2022,7 @@ ul.aglieits-nav li a:hover{
       padding: 30px 10px 10px 10px;
       font-size: 12px;
       line-height: 2em;
-      letter-spacing: 6px;
+      letter-spacing: 1px;
   }
   .wel-right {
     float: right;
@@ -2076,7 +2076,7 @@ ul.aglieits-nav li a:hover{
     padding: 24px 10px 10px 10px;
     font-size: 10px;
     line-height: 2em;
-    letter-spacing: 6px;
+    letter-spacing: 1px;
   }
   figure.effect-moses h4 {
     padding: 10px 10px 10px 10px;
@@ -2156,7 +2156,7 @@ ul.aglieits-nav li a:hover{
     padding: 50px 20px 20px 20px;
     font-size: 16px;
     line-height: 2em;
-    letter-spacing: 10px;
+    letter-spacing: 1px;
   }
   .resp-tabs-list li {
     font-size: 13px;
@@ -2284,7 +2284,7 @@ ul.aglieits-nav li a:hover{
     padding: 42px 20px 20px 20px;
     font-size: 16px;
     line-height: 2em;
-    letter-spacing: 10px;
+    letter-spacing: 1px;
   }
   .w3ls_footer_grid_left {
     float: left;
@@ -2361,7 +2361,7 @@ ul.aglieits-nav li a:hover{
     padding: 22px 20px 20px 20px;
     font-size: 16px;
     line-height: 2em;
-    letter-spacing: 10px;
+    letter-spacing: 1px;
   }
 }
 @media (max-width: 667px){
@@ -2418,7 +2418,7 @@ ul.aglieits-nav li a:hover{
     padding: 34px 20px 20px 20px;
     font-size: 16px;
     line-height: 2em;
-    letter-spacing: 10px;
+    letter-spacing: 1px;
   }
 }
 @media (max-width: 640px){
@@ -2570,7 +2570,7 @@ ul.aglieits-nav li a:hover{
     float: right;
     padding: 10px 10px 10px 10px;
     font-size: 12px;
-    letter-spacing: 8px;
+    letter-spacing: 1px;
   }
   .date {
     text-align: center;
@@ -2624,7 +2624,7 @@ ul.aglieits-nav li a:hover{
     float: right;
     padding: 10px 5px;
     font-size: 12px;
-    letter-spacing: 8px;
+    letter-spacing: 1px;
   }
   figure.effect-moses h4 {
     padding: 22px 10px 10px 10px;
@@ -2883,7 +2883,7 @@ ul.aglieits-nav li a:hover{
     float: right;
     padding: 7px 1px;
     font-size: 11px;
-    letter-spacing: 4px;
+    letter-spacing: 1px;
   }
   figure.effect-moses h4 {
     padding: 13px 10px 10px 10px;
