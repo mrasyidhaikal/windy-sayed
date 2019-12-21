@@ -789,7 +789,7 @@ background: url(../images/g5v2.jpg)no-repeat 0px 0px;
     position: relative;
     display: block;
     width: 100%;
-    opacity: 0.8;
+    
 }
 .agile-homes-w3l.grid figure figcaption {
       padding: 5em 4em;
@@ -1209,8 +1209,7 @@ figure.effect-winston figcaption::before {
   background: url(../images/triangle.svg) no-repeat center center;
   background-size: 100% 100%;
   content: '';
-  -webkit-transition: opacity 0.45s, -webkit-transform 0.45s;
-  transition: opacity 0.45s, transform 0.45s;
+  
   -webkit-transform: rotate3d(0,0,1,45deg);
   transform: rotate3d(0,0,1,45deg);
   -webkit-transform-origin: 0 100%;
